@@ -1,8 +1,8 @@
-Activité 1 :
+ActivitÃ© 1 :
 ---------------------------------------------------------------------
-Repository vide pour le moment ne contenant que le fichier README.txt
-expectant les fichiers suivants :
+Repository contenant les fichiers suivants :
 
 	- App.html
 	- App.css
 	- App.js
+	- README.txt
